@@ -1,0 +1,7 @@
+CLASSIFICATION - SAETCN
+Dataset 1 - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+Dataset 2 - https://figshare.com/articles/dataset/brain_tumor_dataset/1512427
+Dataset 3 - 
+
+SEGMENTATION - SASNET
+Dataset (BRATS2020) - https://www.kaggle.com/datasets/awsaf49/brats2020-training-data
