@@ -48,9 +48,17 @@ The computational codes and model architectures are publicly available. The ulti
 
 ---
 
-## 👨‍💻 Authors and Contact Information
+## 👨‍💻 Authors
 
-| Author | Affiliation | GitHub ID | Contact Mail |
-| :--- | :--- | :--- | :--- |
-| **Arghadip Biswas** | Jadavpur University, Kolkata, India | arghadip2002 | mrarghadipofficial@gmail.com |
-| **Sayan Das** | IIIT Delhi, Delhi, India | N/A | mrarghadipofficial@gmail.com |
+* **[Arghadip Biswas](https://github.com/arghadip2002)**
+    * Affiliation: Jadavpur University, Kolkata, India
+    * GitHub ID: `arghadip2002`
+* **[Sayan Das](https://github.com/Necromancer0912)**
+    * Affiliation: IIIT Delhi, Delhi, India
+    * GitHub ID: `Necromancer0912`
+
+---
+
+## 📧 Contact
+
+* **Email:** mrarghadipofficial@gmail.com
