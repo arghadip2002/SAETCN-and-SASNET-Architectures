@@ -64,7 +64,9 @@ The computational codes and model architectures are publicly available. The ulti
 | Resource Type | Link |
 | :--- | :--- |
 | **Code Repository** | [SAETCN and SAS-NET Architectures (GitHub)](https://github.com/arghadip2002/SAETCN-and-SASNET-Architectures) |
-| **Live Software Demo** | [NeuroGuard Web Application (Hugging Face Space)](https://huggingface.co/spaces/arghadip2002/NeuroGuard-Web-Application) |
+| **Live Software Demo (NeuroGuard Web App)** | [NeuroGuard Web Application (Hugging Face Space)](https://huggingface.co/spaces/arghadip2002/NeuroGuard-Web-Application) |
+| **Code Repo of NeuroGuard Web App** | [Github Repo)](https://github.com/arghadip2002/NeuroGuard-Web-Application) |
+
 
 ---
 
