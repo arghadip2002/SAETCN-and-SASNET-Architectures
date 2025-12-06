@@ -1,0 +1,26 @@
+PROPRIETARY RESEARCH CODE BASE LICENSE (PRCBL)
+
+Copyright (c) 2025 Sayan Das and Arghadip Biswas. All rights reserved.
+
+This Research Code Base, including all associated Python files, deep learning model definitions (SAETCN, SAS-Net), architecture components, training scripts, documentation, and trained weights (the "Code Base"), is the exclusive intellectual property of the authors, Sayan Das and Arghadip Biswas. All rights are reserved.
+
+1.  GRANT OF LIMITED PERMISSION:
+    This license grants a non-exclusive, non-transferable, and revocable limited permission to **inspect and view** the Code Base solely for **academic transparency and non-commercial research review purposes.**
+
+2.  STRICT PROHIBITIONS:
+    The user shall NOT:
+    a.  **COMMERCIAL USE:** Utilize the Code Base, its models, or its results for any commercial activity, profit-making, or monetization in any form.
+    b.  **NO DERIVATIVE WORKS:** Copy, modify, adapt, translate, reverse engineer, or create derivative works of the Code Base. This includes training, fine-tuning, or altering the model architectures (`saetcn.py`, `sasnet.py`, etc.).
+    c.  **REPLICATION/FAKE:** Use the code to replicate, fake, or falsely represent any results or proprietary claims of this research paper.
+    d.  **REDISTRIBUTION:** Distribute, sublicense, lease, lend, or transfer the Code Base or any part thereof to any third party.
+
+3.  PERMISSION REQUIREMENT FOR USE:
+    Any use of the Code Base beyond personal, non-commercial academic review, including but not limited to:
+    a.  **Execution** of the training or evaluation scripts (`train_classification.py`, `evaluate.py`, etc.).
+    b.  **Publication** or public presentation of any results derived from running or analyzing the Code Base.
+    c.  **Deployment** of the trained models in any environment.
+    
+    **REQUIRES EXPLICIT, PRIOR WRITTEN PERMISSION** from both copyright holders: **Sayan Das** and **Arghadip Biswas**. The user must contact the authors to request and obtain such permission before any aforementioned use.
+
+4.  DISCLAIMER OF WARRANTY:
+    THE RESEARCH CODE BASE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CODE BASE OR THE USE OR OTHER DEALINGS IN THE CODE BASE.

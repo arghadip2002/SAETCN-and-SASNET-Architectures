@@ -1,0 +1,2 @@
+# Exclude all PyTorch model files within the Saved_Models directory
+Saved_Models/*.pth
