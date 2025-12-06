@@ -42,7 +42,7 @@ The framework is built upon the integration of **self-attention mechanisms** to 
 * **Integration:** The SFD block contains a complex **Residual Inception module** to combine features at various scales effectively, leading to highly accurate boundary detection.
 * **Performance:** Demonstrated an overall pixel accuracy of **99.23%**.
 
-![SAS-Net Segmentation Result](Visualisation/SASNET_Full_architecture.jpg)
+![SAS-Net Segmentation Result](Visualisation/SASNET_Full_Architecture.jpg)
 
 ---
 
