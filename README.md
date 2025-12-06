@@ -18,7 +18,7 @@ The emergence of AI, particularly Deep Learning, offers a powerful tool to autom
 
 ---
 
-![Different Kinds of Brain Tumor](Visualisation/Different_Kinds_of_brain_Tumors.jpg)
+![Different Kinds of Brain Tumor](Visualisation/Different_Kinds_of_Brain_Tumors.jpg)
 ![Processflow Diagram for Brain Tumor Classification of Multiclass Dataset](Visualisation/Processflow_Diagram.jpg)
 
 
