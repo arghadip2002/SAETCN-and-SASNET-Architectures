@@ -84,3 +84,25 @@ The computational codes and model architectures are publicly available. The ulti
 ## 📧 Contact
 
 * **Email:** mrarghadipofficial@gmail.com
+
+## 📜 Citation & Academic Acknowledgment
+
+This repository contains the official training and evaluation code for the **SAETCN** and **SAS-Net** architectures.
+
+If you use this code, the weights, or the underlying methodologies described here in your own academic research, please cite the original paper:
+
+### ✍️ Preferred Citation (BibTeX)
+
+```bibtex
+@article{das2025novel,
+  title={Novel Deep Learning Architectures for Classification and Segmentation of Brain Tumors from MRI Images},
+  author={Das, Sayan and Biswas, Arghadip},
+  year={2025},
+  eprint={2512.06531},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
+```
+
+### 🔗 Paper Link
+The full paper is publicly available on the arXiv preprint server: [arXiv:2512.06531](https://www.arxiv.org/abs/2512.06531)
