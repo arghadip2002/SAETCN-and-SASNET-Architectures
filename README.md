@@ -83,7 +83,53 @@ The computational codes and model architectures are publicly available. The ulti
 
 ## 📧 Contact
 
-* **Email:** mrarghadipofficial@gmail.com
+* **Arghadip Biswas:** mrarghadipofficial@gmail.com
+* **Sayan Das:** sayan20012002@gmail.com
+
+---
+
+## 📁 Repository Structure
+
+This repository is organized into the following main directories:
+
+### Classification Model SAETCN
+Contains Jupyter notebooks for training and evaluating the SAETCN architecture:
+- `main-model-b-classification-full.ipynb` - Full SAETCN architecture implementation
+- `main-model-b-classification-nca.ipynb` - SAETCN with NCA (Neighborhood Component Analysis)
+- `main-model-b-classification-nca-trisae.ipynb` - SAETCN variant with triple SAE blocks
+- `main-model-b-classification-nca-tri-quadsae.ipynb` - SAETCN with triple and quadruple SAE blocks
+- `main-model-b-classification-nca-tri-quad-hexa.ipynb` - Extended SAETCN with multiple SAE configurations
+
+### Segmentation Model SASNET
+Contains the implementation for the SAS-Net segmentation architecture:
+- `brain_tumor_segmentation_custom_1_with_masked.ipynb` - SAS-Net training and evaluation notebook
+
+### Visualisation
+Contains architecture diagrams and visualizations used in the paper and this README.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8+
+- PyTorch 1.10+
+- CUDA-enabled GPU (recommended for training)
+- Jupyter Notebook or JupyterLab
+
+### Dataset Access
+- Classification datasets: See `dataLinks` file for download URLs
+- Segmentation dataset (BraTS2020): Available on Kaggle
+- Pre-trained model weights: Available in `Model Links` file (Google Drive)
+
+### Usage
+1. Clone this repository
+2. Download the datasets using the links provided in the `dataLinks` file
+3. Download pre-trained models from the Google Drive link in `Model Links` file
+4. Open the respective Jupyter notebooks for classification or segmentation tasks
+5. Follow the instructions within each notebook to train or evaluate the models
+
+---
 
 ## 📜 Citation & Academic Acknowledgment
 
