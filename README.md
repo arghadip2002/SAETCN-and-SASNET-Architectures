@@ -143,10 +143,8 @@ If you use this code, the weights, or the underlying methodologies described her
 @article{das2025novel,
   title={Novel Deep Learning Architectures for Classification and Segmentation of Brain Tumors from MRI Images},
   author={Das, Sayan and Biswas, Arghadip},
-  year={2025},
-  eprint={2512.06531},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  journal={arXiv preprint arXiv:2512.06531},
+  year={2025}
 }
 ```
 
